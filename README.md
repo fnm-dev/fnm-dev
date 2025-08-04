@@ -5,11 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnm-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnm-dev&includeForks=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"><br> 
+  <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/delphi/delphi-original.svg">
+  <img align="center" alt="Firebird" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebird/firebird-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
