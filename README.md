@@ -1,11 +1,13 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Felipe and my nickname is fnm-dev!
-##### Currently, I'm learning Java and Spring Boot for web services.
+##### Currently, I'm learning C#/.NET.
 <br><div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnm-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnm-dev&includeForks=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<div style="display: inline_block" align="center"><br> 
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg">
+  <img align="center" alt="dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/delphi/delphi-original.svg">
   <img align="center" alt="Firebird" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebird/firebird-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
